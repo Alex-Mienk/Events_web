@@ -1,0 +1,80 @@
+/* Reset browser padding and margins */
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+
+.header {
+    padding: 2%;
+    background-color: #7395AE;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+
+button {
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: 2px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.main_button {
+    padding: 8px 15px;
+    background-color: #7395AE;
+    color: white;
+    border: 2px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.login_button {
+    padding: 8px 15px;
+    background-color: #7395AE;
+    color: white;
+    border: 2px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.create_event {
+    padding: 16px 30px;
+    background-color: #7395AE;
+    color: white;
+    border: 2px;
+    cursor: pointer;
+    font-size: 22px;
+    border-radius: 10px;
+}
+
+
+
+.log_state {
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form_errors {
+    color: red;
+    text-align: center;
+}
+
+.logout {
+    background-color: red;
+}
+
+
+div {
+    align-items: center;
+    text-align: center;
+
+}
